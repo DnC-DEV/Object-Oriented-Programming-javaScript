@@ -1,0 +1,1 @@
+# Orirenta-ao-a-objeto-type
